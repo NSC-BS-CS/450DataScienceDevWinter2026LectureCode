@@ -1,0 +1,14 @@
+patient_id,first_name,last_name,date_of_birth,phone,city
+1001,Avery,Nguyen,1990-04-12,206-555-0143,Seattle
+1002,Jordan,Rivera,1985-09-23,206-555-0198,Bellevue
+1003,Samir,Patel,1978-01-30,425-555-0111,Redmond
+1004,Elena,Garcia,2001-07-15,206-555-0177,Seattle
+1005,Marcus,Johnson,1995-11-02,253-555-0182,Tacoma
+1006,Linh,Tran,1988-03-19,206-555-0125,Seattle
+1007,Riley,Chen,1992-06-08,425-555-0166,Kirkland
+1008,Fatima,Hassan,1983-12-01,206-555-0139,Seattle
+10010,Noah,Williams,1991-05-14,206-555-0211,Seattle
+10011,Isabella,Rodriguez,1987-08-22,425-555-0222,Bellevue
+10012,Ethan,Kim,1975-02-03,206-555-0233,Seattle
+10013,Amara,Singh,1999-10-29,253-555-0244,Tacoma
+10014,Lucas,Martinez,1982-12-17,425-555-0255,Redmond

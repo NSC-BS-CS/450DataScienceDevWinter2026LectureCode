@@ -1,0 +1,9 @@
+appointment_id,patient_id,doctor_name,appointment_date,appointment_time,reason,status
+5001,1001,Dr. Smith,2026-02-01,09:00,Annual Physical,Completed
+5002,1002,Dr. Smith,2026-02-01,10:00,Flu Symptoms,Completed
+5003,1001,Dr. Lee,2026-02-15,14:30,Follow-up,Scheduled
+5004,1003,Dr. Patel,2026-02-10,11:15,Blood Pressure,Completed
+5005,1004,Dr. Smith,2026-02-18,16:00,Back Pain,Scheduled
+5006,1002,Dr. Lee,2026-02-20,13:00,Lab Results,Scheduled
+5007,1006,Dr. Patel,2026-02-22,15:45,Headache,Cancelled
+5008,1009,Dr. Smith,2026-02-25,09:30,New Patient,Scheduled

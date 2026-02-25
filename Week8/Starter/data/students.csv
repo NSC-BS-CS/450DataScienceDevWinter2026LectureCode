@@ -1,0 +1,13 @@
+student_id,first_name,last_name,email,program,start_year
+2001,Avery,Nguyen,avery.nguyen@example.edu,Computer Science,2024
+2002,Jordan,Rivera,jordan.rivera@example.edu,Data Science,2023
+2003,Samir,Patel,samir.patel@example.edu,Cybersecurity,2022
+2004,Elena,Garcia,elena.garcia@example.edu,Computer Science,2024
+2005,Marcus,Johnson,marcus.johnson@example.edu,Information Technology,2021
+2006,Linh,Tran,linh.tran@example.edu,Data Science,2023
+2007,Riley,Chen,riley.chen@example.edu,Computer Science,2022
+2008,Fatima,Hassan,fatima.hassan@example.edu,Cybersecurity,2024
+2009,Noah,Williams,noah.williams@example.edu,Information Technology,2023
+2010,Amara,Singh,amara.singh@example.edu,Data Science,2024
+2011,Lucas,Martinez,lucas.martinez@example.edu,Computer Science,2021
+2012,Zoe,Baker,zoe.baker@example.edu,Cybersecurity,2022

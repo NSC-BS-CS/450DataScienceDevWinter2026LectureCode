@@ -1,0 +1,12 @@
+enrollment_id,student_id,course_code,course_name,term,enroll_date,status
+9001,2001,CSI101,Intro to Programming,2026-Winter,2026-01-06,Enrolled
+9002,2002,CSI101,Intro to Programming,2026-Winter,2026-01-06,Enrolled
+9003,2003,CSI210,Data Structures,2026-Winter,2026-01-07,Enrolled
+9004,2004,CSI101,Intro to Programming,2026-Winter,2026-01-06,Dropped
+9005,2001,CSI210,Data Structures,2026-Winter,2026-01-07,Enrolled
+9006,2006,DS201,Intro to Data Science,2026-Winter,2026-01-08,Enrolled
+9007,2008,CY110,Security Fundamentals,2026-Winter,2026-01-09,Enrolled
+9008,2009,IT120,Networking Basics,2026-Winter,2026-01-10,Enrolled
+9009,2010,DS201,Intro to Data Science,2026-Winter,2026-01-08,Waitlisted
+9010,2013,CSI101,Intro to Programming,2026-Winter,2026-01-06,Enrolled
+9011,2007,CSI210,Data Structures,2026-Winter,2026-01-07,Enrolled
